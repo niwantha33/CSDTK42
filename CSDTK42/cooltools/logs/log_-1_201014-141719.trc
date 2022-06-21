@@ -1,0 +1,182 @@
+[14:17:19.759]   SXR 01 : Allocated Tasks 19 Schedule Disable 1\n
+[14:17:19.760]   SXR 01 : Task  0: Task Idle Priority 255
+[14:17:19.760]   SXR 01 : is pending.\n
+[14:17:19.760]   SXR 01 : Stack  32/8192 Top 0x820ae8a8 <- 0x820b08a8\n
+[14:17:19.760]   SXR 01 : Task  1: Layer 1 Priority   1
+[14:17:19.760]   SXR 01 : is pending.\n
+[14:17:19.760]   SXR 01 : Stack  32/1536 Top 0x820b08c0 <- 0x820b0ec0\n
+[14:17:19.760]   SXR 01 : Task  2: Sim Priority  15
+[14:17:19.760]   SXR 01 : is pending.\n
+[14:17:19.760]   SXR 01 : Stack  32/800 Top 0x820b0ed8 <- 0x820b11f8\n
+[14:17:19.760]   SXR 01 : Task  3: LAPDm Priority  21
+[14:17:19.760]   SXR 01 : is pending.\n
+[14:17:19.760]   SXR 01 : Stack  32/800 Top 0x820b1210 <- 0x820b1530\n
+[14:17:19.760]   SXR 01 : Task  4: RR Priority  25
+[14:17:19.760]   SXR 01 : is pending.\n
+[14:17:19.764]   SXR 01 : Stack  32/4096 Top 0x820b1548 <- 0x820b2548\n
+[14:17:19.765]   SXR 01 : Task  5: RLD Priority  26
+[14:17:19.765]   SXR 01 : is pending.\n
+[14:17:19.765]   SXR 01 : Stack  32/800 Top 0x820b2560 <- 0x820b2880\n
+[14:17:19.765]   SXR 01 : Task  6: RLU Priority  27
+[14:17:19.765]   SXR 01 : is pending.\n
+[14:17:19.765]   SXR 01 : Stack  32/1536 Top 0x820b2898 <- 0x820b2e98\n
+[14:17:19.765]   SXR 01 : Task  7: LLC Priority  29
+[14:17:19.765]   SXR 01 : is pending.\n
+[14:17:19.765]   SXR 01 : Stack  32/1024 Top 0x820b2eb0 <- 0x820b32b0\n
+[14:17:19.765]   SXR 01 : Task  8: MM Priority  30
+[14:17:19.765]   SXR 01 : is pending.\n
+[14:17:19.765]   SXR 01 : Stack  32/2000 Top 0x820b32c8 <- 0x820b3a98\n
+[14:17:19.765]   SXR 01 : Task  9: CC Priority  35
+[14:17:19.765]   SXR 01 : is pending.\n
+[14:17:19.765]   SXR 01 : Stack  32/1536 Top 0x820b3ab0 <- 0x820b40b0\n
+[14:17:19.765]   SXR 01 : Task 10: SS Priority  40
+[14:17:19.770]   SXR 01 : is pending.\n
+[14:17:19.770]   SXR 01 : Stack  32/1024 Top 0x820b40c8 <- 0x820b44c8\n
+[14:17:19.770]   SXR 01 : Task 11: SMS Priority  45
+[14:17:19.770]   SXR 01 : is pending.\n
+[14:17:19.770]   SXR 01 : Stack  32/1024 Top 0x820b44e0 <- 0x820b48e0\n
+[14:17:19.770]   SXR 01 : Task 12: CB Priority  50
+[14:17:19.770]   SXR 01 : is pending.\n
+[14:17:19.770]   SXR 01 : Stack  32/1024 Top 0x820b48f8 <- 0x820b4cf8\n
+[14:17:19.770]   SXR 01 : Task 13: SM Priority 120
+[14:17:19.770]   SXR 01 : is pending.\n
+[14:17:19.770]   SXR 01 : Stack  32/1024 Top 0x820b4d10 <- 0x820b5110\n
+[14:17:19.770]   SXR 01 : Task 14: SNDCP Priority 125
+[14:17:19.770]   SXR 01 : is pending.\n
+[14:17:19.770]   SXR 01 : Stack  32/1024 Top 0x820b5128 <- 0x820b5528\n
+[14:17:19.771]   SXR 01 : Task 15: API Priority 150
+[14:17:19.771]   SXR 01 : is pending.\n
+[14:17:19.775]   SXR 01 : Stack  32/1024 Top 0x820b5540 <- 0x820b5940\n
+[14:17:19.776]   SXR 01 : Task 16: CFW Priority 201
+[14:17:19.776]   SXR 01 : is pending.\n
+[14:17:19.776]   SXR 01 : Stack  32/20480 Top 0x820b5958 <- 0x820ba958\n
+[14:17:19.776]   SXR 01 : Task 17: USR_INIT: BAL Init Task Priority   2
+[14:17:19.776]   SXR 01 : is pending.\n
+[14:17:19.776]   SXR 01 : Stack  32/3072 Top 0x820ba970 <- 0x820bb570\n
+[14:17:19.776]   SXR 01 : Task 18: USR_INIT: Decompress Task Priority   3
+[14:17:19.776]   SXR 01 : is pending.\n
+[14:17:19.776]   SXR 01 : Stack  32/1024 Top 0x820bb588 <- 0x820bb988\n
+[14:17:19.776]       /I : FBDEV: scan min_erase_count/1 mismatch_count/0 mismatch/0
+[14:17:19.794]       /I : SFFS mount, device block size/512 block count/749 cache count 4
+[14:17:19.794]       /I : SFFS mount move count/0 block free/703
+[14:17:19.794]   CSW 02 : Entry CFW_ShellControl\r\n
+[14:17:19.794]   CSW 02 : CFW_CONTROL_CMD_POWER_ON\r\n
+[14:17:19.794]   CSW 02 : CFW_Init invoked\n
+[14:17:19.794]   MM 03  : mmp_SndRrGprsReq DetachStuff is 0x0,SimStatus 0x0,Wanted 1
+[14:17:19.794]   SIM 01 : (sim_ResetReq)
+[14:17:19.794]   SIM 01 : Reset Status: 0
+[14:17:19.794]   SIM 01 : Reset Status: 1
+[14:17:19.794]   SIM 06 : ApplicationSelectByFullDf /ApplicationselectByPartialDf / EfDirPresent/ EfAtrPresent = 1 1 1 0
+[14:17:19.794]   SIM 06 : DfSelectByFullDf / DfSelectByPartialDf / DfSelectByPath / DfSelectByFileID= 1 1 1 1
+[14:17:19.794]   SIM 06 : SfiSupport / RecordNumberSupport / RecordIDSupport = 1 1 0
+[14:17:19.894]   SIM 01 : Reset Status: 3
+[14:17:20.721]          : Detected event: 0x6c67f225
+[14:17:20.817]          : Detected event: 0x89000000
+[14:17:20.817]          : Fn 0000374 T1 0000 T2 10 T3 17 Time 00 00 04 511
+[14:17:20.850]          : Detected event: 0x99009000
+[14:17:20.850]   SIM 01 : (sim_SelectApplicationReq)
+[14:17:20.850]          : Fn 0000382 T1 0000 T2 18 T3 25 Time 00 00 04 551
+[14:17:20.869]   SIM 07 : Command successful: '3' retries remaining
+[14:17:20.869]          : Fn 0000384 T1 0000 T2 20 T3 27 Time 00 00 04 560
+[14:17:20.897]          : Detected event: 0x89110001
+[14:17:20.930]          : Detected event: 0x89110005
+[14:17:20.930]          : Detected event: 0x8911116b
+[14:17:20.931]          : Detected event: 0x89019000
+[14:17:20.931]          : Detected event: 0x89110009
+[14:17:20.965]          : Detected event: 0x8811556b
+[14:17:20.965]          : Detected event: 0x89110005
+[14:17:20.965]          : Detected event: 0x89111139
+[14:17:20.965]          : Detected event: 0x89019000
+[14:17:20.980]          : Detected event: 0x89110006
+[14:17:20.980]          : Detected event: 0x89112239
+[14:17:21.078]   SIM 07 : Command successful: '3' retries remaining
+[14:17:21.121]          : Detected event: 0x89300100
+[14:17:21.156]          : Detected event: 0x8930064d
+[14:17:21.175]          : Detected event: 0x89300568
+[14:17:21.205]          : Detected event: 0x89300668
+[14:17:21.205]          : Detected event: 0x89300542
+[14:17:21.217]          : Detected event: 0x89300642
+[14:17:21.233]          : Detected event: 0x89300557
+[14:17:21.233]          : Detected event: 0x89300657
+[14:17:21.265]          : Detected event: 0x89300544
+[14:17:21.265]          : Fn 0000472 T1 0000 T2 04 T3 13 Time 00 00 04 966
+[14:17:21.265]   SIM 07 : File not found
+[14:17:21.265]          : Detected event: 0x89300553
+[14:17:21.291]          : Detected event: 0x89300507
+[14:17:21.314]          : Detected event: 0x89300550
+[14:17:21.335]          : Detected event: 0x89300548
+[14:17:21.355]          : Detected event: 0x8930056b
+[14:17:21.376]   SIM 07 : SELECT_EF instruction recv data error,exceed max resend main ins times:0
+[14:17:21.379]          : Detected event: 0x89300563
+[14:17:21.396]          : Detected event: 0x8930053b
+[14:17:21.416]          : Detected event: 0x89300594
+[14:17:21.448]          : Detected event: 0x89300994
+[14:17:21.448]          : Fn 0000510 T1 0000 T2 16 T3 00 Time 00 00 05 138
+[14:17:21.448]   SIM 01 : (sim_SetUsimPbkReq)
+[14:17:21.470]          : Detected event: 0x89300994
+[14:17:21.480]   SIM 01 : (Usim_DecodePbrRecord 0)length = 80, RecordNum = 1, flag = 0
+[14:17:21.480]          : Fn 0000517 T1 0000 T2 23 T3 07 Time 00 00 05 170
+[14:17:21.480]   SIM 01 : (sim_SetUsimPbkReq)
+[14:17:21.496]          : Detected event: 0x89300597
+[14:17:21.596]   SIM 01 : (Usim_DecodePbrRecord 0)length = 80, RecordNum = 2, flag = 0
+[14:17:21.679]          : Detected event: 0x2244420d
+[14:17:21.703]          : Detected event: 0x22446804
+[14:17:21.752]          : Detected event: 0x23000042
+[14:17:21.784]          : Detected event: 0x23000068
+[14:17:21.832]          : Detected event: 0x22445c28
+[14:17:21.848]          : Detected event: 0x22445d28
+[14:17:21.866]          : Detected event: 0x23000061
+[14:17:21.945]          : Detected event: 0x2300005c
+[14:17:21.961]          : Detected event: 0x2300005d
+[14:17:21.992]          : Detected event: 0x2300003b
+[14:17:22.008]          : Detected event: 0x23000063
+[14:17:22.029]          : Detected event: 0x2300008e
+[14:17:22.056]          : Detected event: 0x23000062
+[14:17:22.071]          : Detected event: 0x2300003f
+[14:17:22.087]          : Fn 0000649 T1 0000 T2 25 T3 37 Time 00 00 05 780
+[14:17:22.087]   SIM 07 : File not found
+[14:17:22.087]          : Detected event: 0x22445f00
+[14:17:22.188]   SIM 07 : SELECT_EF instruction recv data error,exceed max resend main ins times:0
+[14:17:22.413]          : Detected event: 0x55000019
+[14:17:22.743]          : Fn 0000790 T1 0000 T2 10 T3 25 Time 00 00 06 432
+[14:17:22.743]   MM 09  : Dump : at 0x8209953D (5/5) : 14 f3 10 f7 62
+[14:17:22.743]   MM 09  : Dump : at 0x8209954E (6/6) : 14 f3 10 f7 62 85
+[14:17:22.743]   MM 09  : Dump : at 0x820994B7 (6/6) : 00 00 00 00 00 ff
+[14:17:22.743]   MM 09  : Dump : at 0x820994C9 (6/6) : 00 00 00 ff fe 00
+[14:17:22.743]   MM 09  : Att 0, Service 0x00, NMO 256
+[14:17:22.842]   MM 09  : return for PrioAccThr\n
+[14:17:27.380]          : Fn 0001584 T1 0001 T2 24 T3 03 Time 00 00 11 071
+[14:17:27.381]   MM 09  : Dump : at 0x8209953D (5/5) : 14 f3 10 f7 62
+[14:17:27.381]   MM 09  : Dump : at 0x8209954E (6/6) : 14 f3 10 f7 62 85
+[14:17:27.381]   MM 09  : Dump : at 0x820994B7 (6/6) : 00 00 00 00 00 ff
+[14:17:27.381]   MM 09  : Dump : at 0x820994C9 (6/6) : 00 00 00 00 00 ff
+[14:17:27.381]   MM 09  : Att 0, Service 0x00, NMO 256
+[14:17:27.481]   MM 09  : return for PrioAccThr\n
+[14:17:41.018]          : Fn 0002378 T1 0001 T2 12 T3 32 Time 00 00 24 710
+[14:17:41.018]   MM 09  : Dump : at 0x8209953D (5/5) : 14 f3 10 f7 62
+[14:17:41.018]   MM 09  : Dump : at 0x8209954E (6/6) : 14 f3 10 f7 62 85
+[14:17:41.018]   MM 09  : Dump : at 0x820994B7 (6/6) : 00 00 00 00 00 ff
+[14:17:41.018]   MM 09  : Dump : at 0x820994C9 (6/6) : 00 00 00 00 00 ff
+[14:17:41.018]   MM 09  : Att 0, Service 0x00, NMO 256
+[14:17:41.118]   MM 09  : return for PrioAccThr\n
+[14:17:54.655]          : Fn 0003172 T1 0002 T2 00 T3 10 Time 00 00 38 349
+[14:17:54.655]   MM 09  : Dump : at 0x8209953D (5/5) : 14 f3 10 f7 62
+[14:17:54.655]   MM 09  : Dump : at 0x8209954E (6/6) : 14 f3 10 f7 62 85
+[14:17:54.655]   MM 09  : Dump : at 0x820994B7 (6/6) : 00 00 00 00 00 ff
+[14:17:54.655]   MM 09  : Dump : at 0x820994C9 (6/6) : 00 00 00 00 00 ff
+[14:17:54.655]   MM 09  : Att 0, Service 0x00, NMO 256
+[14:17:54.755]   MM 09  : return for PrioAccThr\n
+[14:18:08.292]          : Fn 0003966 T1 0002 T2 14 T3 39 Time 00 00 51 988
+[14:18:08.292]   MM 09  : Dump : at 0x8209953D (5/5) : 14 f3 10 f7 62
+[14:18:08.292]   MM 09  : Dump : at 0x8209954E (6/6) : 14 f3 10 f7 62 85
+[14:18:08.292]   MM 09  : Dump : at 0x820994B7 (6/6) : 00 00 00 00 00 ff
+[14:18:08.292]   MM 09  : Dump : at 0x820994C9 (6/6) : 00 00 00 00 00 ff
+[14:18:08.292]   MM 09  : Att 0, Service 0x00, NMO 256
+[14:18:08.392]   MM 09  : return for PrioAccThr\n
+[14:18:22.316]          : Fn 0004844 T1 0003 T2 08 T3 50 Time 00 01 06 014
+[14:18:22.316]   MM 09  : Dump : at 0x8209953D (5/5) : 14 f3 10 f7 62
+[14:18:22.317]   MM 09  : Dump : at 0x8209954E (6/6) : 14 f3 10 f7 62 85
+[14:18:22.317]   MM 09  : Dump : at 0x820994B7 (6/6) : 00 00 00 00 00 ff
+[14:18:22.317]   MM 09  : Dump : at 0x820994C9 (6/6) : 00 00 00 00 00 ff
+[14:18:22.317]   MM 09  : Att 0, Service 0x00, NMO 256
+[14:18:22.417]   MM 09  : return for PrioAccThr\n

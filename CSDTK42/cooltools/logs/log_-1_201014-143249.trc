@@ -1,0 +1,16 @@
+[14:33:01.712]          : Detected event: 0xffffffff
+[14:33:01.776]          : Detected event: 0xf07a0000
+[14:33:01.776]          : Detected event: 0xf07a0002
+[14:33:01.776]          : Detected event: 0x89550002
+[14:33:01.792]          : Detected event: 0xfe901b00
+[14:33:01.808]          : Detected event: 0x00000004
+[14:33:01.808]          : Detected event: 0x66660021
+[14:33:01.808]          : Detected event: 0x0000000f
+[14:33:01.808]          : Detected event: 0x00000000
+[14:33:01.827]          : Detected event: 0x001660c8
+[14:33:01.904]          : Detected event: 0x00000057
+[14:33:01.938]          : Detected event: 0x9999a244
+[14:33:01.938]          : Detected event: 0x77770006
+[14:33:02.436]          : SXS_INIT_RMC
+[14:33:03.792]          : Detected event: 0xffffff00
+[14:33:03.792]          : Detected event: 0xb0070000

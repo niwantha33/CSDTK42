@@ -1,0 +1,101 @@
+--- 
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- /media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod
+- fastpfChooseLod()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- restart(false)
+- turnoff()
+- $CMDTHREAD.kill; &
+- turnoff()
+- restart(false)
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- /media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod
+- fastpfChooseLod()
+- activateTracerGui()
+- activateTracerGui()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod"
+- fastpfGo()
+- /media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/uart/uart_B2131_debug.lod
+- fastpfChooseLod()
+- activateTracerGui()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/gpio/gpio_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/gpio/gpio_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/gpio/gpio_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/gpio/gpio_B2131_debug.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/gpio/gpio_B2131_debug.lod"
+- fastpfGo()
+- /media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/hex/gpio/gpio_B2131_debug.lod
+- fastpfChooseLod()
+- /media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod
+- fastpfChooseFlashProgrammer()
+- fastpfChooseLod()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- $CMDTHREAD.kill; &
+- $CMDTHREAD.kill; &
+- fastpfChooseFlashProgrammer()
+- fastpfChooseLod()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- /media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod
+- fastpfChooseLod()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- /media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod
+- fastpfChooseLod()
+- restart(false)
+- restart(false)
+- turnoff()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- cwClear &
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- /media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod
+- fastpfChooseLod()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- fastpfGo "/media/niwantha/EXT4/A9_SDK/CSDTK42/cooltools/chipgen/Modem2G/toolpool/plugins/fastpf/flash_programmers/host_8955_flsh_spi32m_ramrun.lod", "/media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod"
+- fastpfGo()
+- /media/niwantha/EXT4/A9_SDK/projects/GPRS_C_SDK/platform/ramrun/flsh_spi32m/host_8955_flsh_spi32m_ramrun.lod
